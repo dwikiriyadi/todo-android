@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">To Do</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="add_to_do">Add a to do</string>
+    <string name="set_date_and_reminder">Set date and reminder</string>
+    <string name="nothing_todo">Nothing to do</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="set_reminder">Set reminder</string>
+    <string name="set_date">Set date</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+</resources>
